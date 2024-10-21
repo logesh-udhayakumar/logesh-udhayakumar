@@ -24,7 +24,7 @@ Hi, I'm **Loki**, a developer with over two years of experience working at a sta
 <br>
 
 ### Contact
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/logesh-udhayakumar/)  [<img src="https://img.shields.io/badge/Send Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:logeshda890@gmail.com,freefirefan890@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/logesh-udhayakumar/)  [<img src="https://img.shields.io/badge/Send Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:logeshda890@gmail.com)
 
 <br>
 
